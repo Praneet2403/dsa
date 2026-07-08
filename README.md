@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Praneet2403/dsa/tree/master/0875-koko-eating-bananas) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Praneet2403/dsa/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
