@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Praneet2403/dsa/tree/master/0009-palindrome-number) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Praneet2403/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
+## String
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Praneet2403/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Praneet2403/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
