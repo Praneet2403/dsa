@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Praneet2403/dsa/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Praneet2403/dsa/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Praneet2403/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Praneet2403/dsa/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Praneet2403/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Praneet2403/dsa/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Praneet2403/dsa/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Praneet2403/dsa/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Praneet2403/dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
 |  |
