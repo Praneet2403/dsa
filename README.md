@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Praneet2403/dsa/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Praneet2403/dsa/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0875-koko-eating-bananas](https://github.com/Praneet2403/dsa/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Praneet2403/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Praneet2403/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Praneet2403/dsa/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Praneet2403/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Praneet2403/dsa/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Praneet2403/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Praneet2403/dsa/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Praneet2403/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Praneet2403/dsa/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Praneet2403/dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
 |  |
@@ -67,4 +70,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Praneet2403/dsa/tree/master/0450-delete-node-in-a-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
