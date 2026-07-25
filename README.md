@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Praneet2403/dsa/tree/master/0009-palindrome-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Praneet2403/dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Praneet2403/dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Praneet2403/dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Praneet2403/dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
 | ------- |
