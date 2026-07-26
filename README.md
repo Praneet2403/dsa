@@ -95,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Praneet2403/dsa/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Praneet2403/dsa/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
