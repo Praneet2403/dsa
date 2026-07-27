@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Praneet2403/dsa/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/Praneet2403/dsa/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Praneet2403/dsa/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/Praneet2403/dsa/tree/master/0572-subtree-of-another-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Praneet2403/dsa/tree/master/0155-min-stack) |
+## Depth-First Search
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Praneet2403/dsa/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Praneet2403/dsa/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Praneet2403/dsa/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
