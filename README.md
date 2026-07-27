@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Praneet2403/dsa/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Praneet2403/dsa/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/Praneet2403/dsa/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Praneet2403/dsa/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Praneet2403/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Praneet2403/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Praneet2403/dsa/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Praneet2403/dsa/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Praneet2403/dsa/tree/master/0572-subtree-of-another-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Praneet2403/dsa/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
