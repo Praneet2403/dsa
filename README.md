@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Praneet2403/dsa/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Praneet2403/dsa/tree/master/0875-koko-eating-bananas) |
+| [0963-minimum-area-rectangle-ii](https://github.com/Praneet2403/dsa/tree/master/0963-minimum-area-rectangle-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Praneet2403/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Praneet2403/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Praneet2403/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Praneet2403/dsa/tree/master/0009-palindrome-number) |
+| [0963-minimum-area-rectangle-ii](https://github.com/Praneet2403/dsa/tree/master/0963-minimum-area-rectangle-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Praneet2403/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Praneet2403/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Praneet2403/dsa/tree/master/3536-maximum-product-of-two-digits) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Praneet2403/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Praneet2403/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0963-minimum-area-rectangle-ii](https://github.com/Praneet2403/dsa/tree/master/0963-minimum-area-rectangle-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Praneet2403/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Praneet2403/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Praneet2403/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Praneet2403/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Geometry
+|  |
+| ------- |
+| [0963-minimum-area-rectangle-ii](https://github.com/Praneet2403/dsa/tree/master/0963-minimum-area-rectangle-ii) |
 <!---LeetCode Topics End-->
