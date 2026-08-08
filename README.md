@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Praneet2403/dsa/tree/master/0684-redundant-connection) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Praneet2403/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Praneet2403/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Matrix
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Praneet2403/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Praneet2403/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Praneet2403/dsa/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/Praneet2403/dsa/tree/master/0684-redundant-connection) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Praneet2403/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -182,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Praneet2403/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Praneet2403/dsa/tree/master/0684-redundant-connection) |
+## Graph Theory
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Praneet2403/dsa/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
