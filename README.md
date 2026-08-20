@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Praneet2403/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Praneet2403/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Praneet2403/dsa/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Praneet2403/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Praneet2403/dsa/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Praneet2403/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
