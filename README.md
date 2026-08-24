@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0963-minimum-area-rectangle-ii](https://github.com/Praneet2403/dsa/tree/master/0963-minimum-area-rectangle-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Praneet2403/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Praneet2403/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1140-stone-game-ii](https://github.com/Praneet2403/dsa/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Praneet2403/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Praneet2403/dsa/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Praneet2403/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Praneet2403/dsa/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/Praneet2403/dsa/tree/master/0877-stone-game) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Praneet2403/dsa/tree/master/0963-minimum-area-rectangle-ii) |
+| [1140-stone-game-ii](https://github.com/Praneet2403/dsa/tree/master/1140-stone-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Praneet2403/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Praneet2403/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Praneet2403/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Praneet2403/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0877-stone-game](https://github.com/Praneet2403/dsa/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Praneet2403/dsa/tree/master/1140-stone-game-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -214,12 +217,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Praneet2403/dsa/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Praneet2403/dsa/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Praneet2403/dsa/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Praneet2403/dsa/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Praneet2403/dsa/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Praneet2403/dsa/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Praneet2403/dsa/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
