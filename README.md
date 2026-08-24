@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Praneet2403/dsa/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Praneet2403/dsa/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Praneet2403/dsa/tree/master/0877-stone-game) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Praneet2403/dsa/tree/master/0963-minimum-area-rectangle-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Praneet2403/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Praneet2403/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Praneet2403/dsa/tree/master/0009-palindrome-number) |
+| [0877-stone-game](https://github.com/Praneet2403/dsa/tree/master/0877-stone-game) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Praneet2403/dsa/tree/master/0963-minimum-area-rectangle-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Praneet2403/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Praneet2403/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Praneet2403/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0877-stone-game](https://github.com/Praneet2403/dsa/tree/master/0877-stone-game) |
 ## Manacher
 |  |
 | ------- |
@@ -207,4 +210,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Praneet2403/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Praneet2403/dsa/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Praneet2403/dsa/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Praneet2403/dsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
