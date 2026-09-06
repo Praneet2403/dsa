@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Praneet2403/dsa/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Praneet2403/dsa/tree/master/0049-group-anagrams) |
+| [0200-number-of-islands](https://github.com/Praneet2403/dsa/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Praneet2403/dsa/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Praneet2403/dsa/tree/master/0739-daily-temperatures) |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Praneet2403/dsa/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Praneet2403/dsa/tree/master/0684-redundant-connection) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Praneet2403/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Praneet2403/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Praneet2403/dsa/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Praneet2403/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Search
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Praneet2403/dsa/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Praneet2403/dsa/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Praneet2403/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Praneet2403/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Praneet2403/dsa/tree/master/0684-redundant-connection) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Praneet2403/dsa/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Praneet2403/dsa/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
