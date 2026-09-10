@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Praneet2403/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Praneet2403/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Praneet2403/dsa/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Praneet2403/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Praneet2403/dsa/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Praneet2403/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Praneet2403/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Praneet2403/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Praneet2403/dsa/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Praneet2403/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Praneet2403/dsa/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Praneet2403/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Praneet2403/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/Praneet2403/dsa/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Praneet2403/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Praneet2403/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Praneet2403/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Praneet2403/dsa/tree/master/0684-redundant-connection) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Praneet2403/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Praneet2403/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Praneet2403/dsa/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
