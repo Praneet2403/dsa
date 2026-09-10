@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Praneet2403/dsa/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Praneet2403/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Praneet2403/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Praneet2403/dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Praneet2403/dsa/tree/master/0572-subtree-of-another-tree) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Praneet2403/dsa/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Praneet2403/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Praneet2403/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Praneet2403/dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Praneet2403/dsa/tree/master/0572-subtree-of-another-tree) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Praneet2403/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Praneet2403/dsa/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Praneet2403/dsa/tree/master/0739-daily-temperatures) |
 ## Design
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Praneet2403/dsa/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Praneet2403/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/Praneet2403/dsa/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Praneet2403/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Praneet2403/dsa/tree/master/0572-subtree-of-another-tree) |
@@ -247,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Praneet2403/dsa/tree/master/1140-stone-game-ii) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Praneet2403/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
