@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Praneet2403/dsa/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Praneet2403/dsa/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Praneet2403/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Praneet2403/dsa/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Praneet2403/dsa/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Praneet2403/dsa/tree/master/0877-stone-game) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Praneet2403/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Praneet2403/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Praneet2403/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Praneet2403/dsa/tree/master/0963-minimum-area-rectangle-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Praneet2403/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Praneet2403/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Praneet2403/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Praneet2403/dsa/tree/master/1140-stone-game-ii) |
 ## Linked List
 |  |
