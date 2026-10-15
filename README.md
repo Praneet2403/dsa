@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Praneet2403/dsa/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Praneet2403/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Praneet2403/dsa/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Praneet2403/dsa/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Praneet2403/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Praneet2403/dsa/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Praneet2403/dsa/tree/master/0217-contains-duplicate) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Praneet2403/dsa/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Praneet2403/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Praneet2403/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Praneet2403/dsa/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/Praneet2403/dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Praneet2403/dsa/tree/master/1140-stone-game-ii) |
 ## Manacher
