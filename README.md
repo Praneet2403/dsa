@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Praneet2403/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/Praneet2403/dsa/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Praneet2403/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Praneet2403/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Praneet2403/dsa/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Praneet2403/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Praneet2403/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Praneet2403/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Praneet2403/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Praneet2403/dsa/tree/master/0963-minimum-area-rectangle-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Praneet2403/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Praneet2403/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Praneet2403/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
@@ -268,4 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Praneet2403/dsa/tree/master/0543-diameter-of-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Praneet2403/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Praneet2403/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
